@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Write project outline",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Review reference notes",
+    "status": "in_progress"
+  },
+  {
+    "id": 3,
+    "title": "Prepare final checklist",
+    "status": "pending"
+  }
+]
